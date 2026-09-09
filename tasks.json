@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "text": "Learn Python",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "text": "Buy groceries",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "text": "Clean room",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "text": "dance",
+    "completed": false
+  }
+]
